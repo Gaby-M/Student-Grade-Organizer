@@ -1,0 +1,12 @@
+Student 1 John
+Student 1 98.9
+Student 1 99.5
+Student 2 Paul
+Student 3 Meray
+Student 2 100
+Student 4 Carla
+Student 3 99
+Student 5 Matheus
+Student 1 90
+Student 2 70
+Student 4 88
